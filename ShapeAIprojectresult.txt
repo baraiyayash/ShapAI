@@ -1,0 +1,10 @@
+Python 3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=============== RESTART: C:\Users\yashb\Desktop\ShapeAIproject.py ==============
+enter the city name:bhavnagar
+current temperature is: 29.93 deg c
+current weather desc: overcast clouds
+current humidity: 66 %
+current wind speed: 4.06 kmph
+>>> 
